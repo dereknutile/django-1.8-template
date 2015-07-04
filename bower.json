@@ -1,11 +1,11 @@
 {
-  "name": "Django 1.7 Application Template",
+  "name": "Django 1.8 Application Template",
   "version": "0.1.0",
-  "homepage": "https://github.com/dereknutile/django-1.7-template",
+  "homepage": "https://github.com/dereknutile/django-1.8-template",
   "authors": [
     "Derek Nutile <hi@dereknutile.com>"
   ],
-  "description": "Simple mock-up machine",
+  "description": "Template application for Django.",
   "license": "MIT",
   "private": true,
   "ignore": [
@@ -16,8 +16,8 @@
     "tests"
   ],
   "dependencies": {
-    "fontawesome": "~4.2.0",
-    "jquery": "~2.1.1",
-    "bootstrap": "~3.2.0"
+    "fontawesome": "~4.3.0",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
   }
 }
