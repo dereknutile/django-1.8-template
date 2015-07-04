@@ -27,8 +27,7 @@ In a terminal, create your virtual environment using virtualenvwrapper commands.
 You should see something similar to the following:
 
     New python executable in django18/bin/python
-    Installing Setuptools ...done.
-    Installing Pip ...done.
+    Installing setuptools, pip, wheel...done.
 
 …and your prompt should now look something like this:
 
