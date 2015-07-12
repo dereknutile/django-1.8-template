@@ -69,6 +69,8 @@ inst 'Git' git
 
 # Utility setup ################################################################
 # Install Python and Django utilities
+inst python-dev
+inst libevent-dev
 inst 'Pip' python-pip
 ################################################################################
 
