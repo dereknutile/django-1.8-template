@@ -67,6 +67,12 @@ inst 'Git' git
 ################################################################################
 
 
+# Utility setup ################################################################
+# Install Python and Django utilities
+inst 'Pip' python-pip
+################################################################################
+
+
 # PATH settings ################################################################
 echo "Adding /vagrant/bin to path ..."
 echo 'export PATH="/vagrant/bin:$PATH"' >> /home/vagrant/.bashrc
