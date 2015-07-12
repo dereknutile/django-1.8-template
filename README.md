@@ -14,7 +14,7 @@ The documentation below assumes you're using [virtualenv](http://www.virtualenv.
 ## Setup
 
 * [Create a Virtual Environment](#create-virtualenv)
-* [Clone the Template](#clone-template)
+* [Clone the Django 1.8 Template](#clone-template)
 * [Install Dependencies](#install-dependencies)
 * [Run Server](#run-server)
 
@@ -35,7 +35,7 @@ You should see something similar to the following:
 
 Note: See the [Virtualenvwrapper Docs](http://virtualenvwrapper.readthedocs.org/en/latest/command_ref.html "Virtualenvwrapper Docs") for more commands.
 
-### [Clone the Template](id:anchor-clone-the-template)
+### [Clone the Django 1.8 Template](id:anchor-clone-the-template)
 
 To create a project using this template, open a terminal and navigate to the place where you want to keep your project, let's say it's **~/projects/**.
 
