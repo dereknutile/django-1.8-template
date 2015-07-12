@@ -1,2 +1,9 @@
+.DS_Store
+*~
+
+/.vagrant
+/tmp
+/vendor
+
 *.pyc
 *.db
