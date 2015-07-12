@@ -8,6 +8,8 @@ The goal is to have a standardized baseline Django 1.8 application skeleton to b
 ## Requirements
 The documentation below assumes you're using [virtualenv](http://www.virtualenv.org/ "Virtualenv") and [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/ "Virtualenvwrapper") to manage versions and dependencies within different development environments.  In order to properly develop this application you should have the following installed:
 
+* [Python] (https://www.python.org/downloads/ "Python 2.7+ or 3.2+ is required for Django 1.8")
+* [Pip] (https://pip.pypa.io/en/latest/installing.html "Pip")
 * [Virtualenv](http://www.virtualenv.org/ "Virtualenv")
 * [Virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/ "Virtualenvwrapper")
 
