@@ -3,7 +3,7 @@
 ## Overview
 This is a modified and repurposed version of this project [https://github.com/dereknutile/django-1.7-template](https://github.com/dereknutile/django-1.7-template), which is a repurposed and modified version of this project project [https://github.com/dereknutile/django-1.6-template](https://github.com/dereknutile/django-1.6-template).
 
-The goal is to have a standardized baseline Django 1.8 application skeleton to build web applications from.
+The goal is to have a standardized baseline Django 1.8 application skeleton to build web applications from.  In the 1.8 version, I'm adding a Vagrant option.
 
 ## Requirements
 This version of the Django Template comes with an option to use Vagrant.  Because this is optional, I'm not going to spend any time covering the setup of a Vagrant environment.  You can find out more about Vagrant here: [https://www.vagrantup.com/](.https://www.vagrantup.com/).
@@ -23,6 +23,8 @@ The documentation below assumes you're using [virtualenv](http://www.virtualenv.
 * [Run Server](#run-server)
 
 ### [Create a Virtual Environment](id:anchor-create-a-virtual-environment)
+
+**Instructions if using Vagrant**
 
 In a terminal, create your virtual environment using virtualenvwrapper commands.  Here we'll name it ```django18```, but you may want to change it to something that makes more sense for your environment.
 
