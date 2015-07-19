@@ -24,8 +24,6 @@ The documentation below assumes you're using [virtualenv](http://www.virtualenv.
 
 ### [Create a Virtual Environment](id:anchor-create-a-virtual-environment)
 
-**Instructions if using Vagrant**
-
 In a terminal, create your virtual environment using virtualenvwrapper commands.  Here we'll name it ```django18```, but you may want to change it to something that makes more sense for your environment.
 
   $ mkvirtualenv django18
